@@ -27,8 +27,15 @@ will be parsed to
 ```html
 <i style="color:#fff;" class="fas fa-cog"></i>
 ```
-Any of the following styles can be used: `:fas fa-cog:`, `:fas fa-cog:[c=black]`, `:fad fa-cat:[c=#FFFFFF]`, `:fas fa-pencil:[c=blue]`, `:fas fa-aws:[c=hsla(120,100%,25%,0.3)]`, `:fas fa-home:[c=rgb(0,0,255)]`.
+Any of the following styles can be used: 
+- `:fas fa-cog:`
+- `:fas fa-cog:[c=black]`
+- `:fad fa-cat:[c=#FFFFFF]`
+- `:fas fa-pencil:[c=blue]`
+- `:fas fa-aws:[c=hsla(120,100%,25%,0.3)]`
+- `:fas fa-home:[c=rgb(0,0,255)]`.
 
+Basically anything that works in CSS should work here.
 # Links
 - [Font Awesome](https://fontawesome.com/)
 - [Docsify](https://docsify.js.org/#/)
