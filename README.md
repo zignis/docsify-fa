@@ -33,5 +33,5 @@ Any of the following styles can be used: `:fas fa-cog:`, `:fas fa-cog:[c=black]`
 [Font Awesome](https://fontawesome.com/) | [Docsify](https://docsify.js.org/#/)
 
 # License
-[Apache License 2.0](https://github.com/HexM7/docsify-fa/LICENSE)
+[Apache License 2.0](https://github.com/HexM7/docsify-fa/blob/main/LICENSE)
 
