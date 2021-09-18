@@ -27,4 +27,11 @@ will be parsed to
 ```html
 <i style="color:#fff;" class="fas fa-cog"></i>
 ```
-Any of the following styles can be used: `:fas fa-cog:`, `:fas fa-cog:[c=black]`, `:fad fa-cat:[c=#FFFFFF]`, `:fas fa-pencil:[c=blue]`
+Any of the following styles can be used: `:fas fa-cog:`, `:fas fa-cog:[c=black]`, `:fad fa-cat:[c=#FFFFFF]`, `:fas fa-pencil:[c=blue]`.
+
+# Links
+[Font Awesome](https://fontawesome.com/) | [Docsify](https://docsify.js.org/#/)
+
+# License
+[Apache License 2.0](https://github.com/HexM7/docsify-fa/LICENSE)
+
