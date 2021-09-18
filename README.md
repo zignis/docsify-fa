@@ -1,5 +1,5 @@
 Inspired from [erickjx/docsify-fontawesome](https://github.com/erickjx/docsify-fontawesome), allows you to apply custom colors to the icons.
-# Setup
+# ⚙️ Setup
 Inject FontAwesome CSS files to your main html file:
 ```html
 <!-- index.html -->
@@ -17,7 +17,7 @@ Inject the script in the same document:
 ```html
 <script src="https://cdn.jsdelivr.net/gh/HexM7/docsify-fa/script.min.js"></script>
 ```
-# Usage
+# :hammer: Usage
 The syntax is `:fa(style) fa-(icon_name) ...:[c=(color_resolvable)]`, the color parameter is optional.
 Text enclosed by `:fa :` will be parsed to CSS, for example:
 ```
@@ -36,11 +36,11 @@ Any of the following styles can be used:
 - `:fas fa-home:[c=rgb(0,0,255)]`.
 
 Basically anything that works in CSS should work here.
-# Links
+# :link: Links
 - [Font Awesome](https://fontawesome.com/)
 - [Docsify](https://docsify.js.org/#/)
 - [erickjx/docsify-fontawesome](https://github.com/erickjx/docsify-fontawesome)
 
-# License
+# :ledger: License
 [Apache License 2.0](https://github.com/HexM7/docsify-fa/blob/main/LICENSE)
 
