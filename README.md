@@ -1,4 +1,4 @@
-Inspired from [erickjx/docsify-fontawesome](https://github.com/erickjx/docsify-fontawesome)
+Inspired from [erickjx/docsify-fontawesome](https://github.com/erickjx/docsify-fontawesome), allows you to apply custom colors to the icons.
 # Setup
 Inject FontAwesome CSS files to your main html file:
 ```html
@@ -27,7 +27,7 @@ will be parsed to
 ```html
 <i style="color:#fff;" class="fas fa-cog"></i>
 ```
-Any of the following styles can be used: `:fas fa-cog:`, `:fas fa-cog:[c=black]`, `:fad fa-cat:[c=#FFFFFF]`, `:fas fa-pencil:[c=blue]`.
+Any of the following styles can be used: `:fas fa-cog:`, `:fas fa-cog:[c=black]`, `:fad fa-cat:[c=#FFFFFF]`, `:fas fa-pencil:[c=blue]`, `:fas fa-aws:[c=hsla(120,100%,25%,0.3)]`, `:fas fa-home:[c=rgb(0,0,255)]`.
 
 # Links
 [Font Awesome](https://fontawesome.com/) | [Docsify](https://docsify.js.org/#/)
