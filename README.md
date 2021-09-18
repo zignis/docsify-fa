@@ -30,7 +30,9 @@ will be parsed to
 Any of the following styles can be used: `:fas fa-cog:`, `:fas fa-cog:[c=black]`, `:fad fa-cat:[c=#FFFFFF]`, `:fas fa-pencil:[c=blue]`, `:fas fa-aws:[c=hsla(120,100%,25%,0.3)]`, `:fas fa-home:[c=rgb(0,0,255)]`.
 
 # Links
-[Font Awesome](https://fontawesome.com/) | [Docsify](https://docsify.js.org/#/)
+- [Font Awesome](https://fontawesome.com/)
+- [Docsify](https://docsify.js.org/#/)
+- [erickjx/docsify-fontawesome](https://github.com/erickjx/docsify-fontawesome)
 
 # License
 [Apache License 2.0](https://github.com/HexM7/docsify-fa/blob/main/LICENSE)
