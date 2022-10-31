@@ -15,7 +15,7 @@ Inject FontAwesome CSS files to your main html file:
 
 Inject the script in the same document:
 ```html
-<script src="https://cdn.jsdelivr.net/gh/HexM7/docsify-fa/script.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/zignis/docsify-fa/script.min.js"></script>
 ```
 # :hammer: Usage
 The syntax is `:fa(style) fa-(icon_name) ...:[c=(color_resolvable)]`, the color parameter is optional.
@@ -42,5 +42,5 @@ Basically anything that works in CSS should work here.
 - [erickjx/docsify-fontawesome](https://github.com/erickjx/docsify-fontawesome)
 
 # :ledger: License
-[Apache License 2.0](https://github.com/HexM7/docsify-fa/blob/main/LICENSE)
+[Apache License 2.0](https://github.com/zignis/docsify-fa/blob/main/LICENSE)
 
